@@ -1,0 +1,49 @@
+header
+{
+    background-color: #9e0d45;
+    color: white;
+    height: 70px;
+   /* margin-left: 100px;*/
+}
+
+h1{
+    margin-left: 42%;
+}
+
+nav
+{
+    background-color: whitesmoke;
+    height: 50px;
+    width: 100%;
+    /* margin-left: 100px;*/
+}
+span{
+    margin-right: 70px;
+    margin-left: 120px;
+
+}
+
+aside
+{
+    background-color: whitesmoke;
+    width: 100px;
+    height: 80%;
+    margin-top: px;
+   
+}
+
+footer
+{
+   /* margin-left: 100px;*/
+    margin-top: -49px;
+    background-color: #9e0d45;
+    height: 50px;
+    z-index: 2; /*for diplaying text on image or header*/
+    position: absolute;
+    width: 98.8%;
+}
+
+p{
+    margin-left: 82%;
+    color: white;
+}

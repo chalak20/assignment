@@ -1,0 +1,94 @@
+header
+{
+    background-color: #9e0d45;
+    color: white;
+    height: 70px;
+   /* margin-left: 100px;*/
+}
+h1{
+    margin-left: 42%;
+}
+
+nav
+{
+    background-color: whitesmoke;
+    height: 50px;
+    width: 100%;
+    /* margin-left: 100px;*/
+}
+span{
+    margin-right: 70px;
+    margin-left: 120px;
+
+}
+.product {
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    float: left;
+    height: 65%;
+    margin-left: 60px;
+}
+.product1 {
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    float: right;
+    height: 65%;
+    margin-left: 60px;
+    margin-right: 50px;
+}
+.product2 
+{
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    float: inline-start;
+    margin-left: 60px;
+}
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color:#9e0d45;
+    margin-top: 0px;
+}
+
+p.price {
+    font-weight: bold;
+    color: #333;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+#fut {
+    background-color: #9e0d45;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    margin-top: 470px;
+    height: 50px;
+}
